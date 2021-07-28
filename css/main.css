@@ -1,0 +1,27 @@
+/* Body style */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Header style */
+
+
+.header-bg {
+    background: #264653
+    ;
+}
+.btn-Purchase {
+    background: #E76F51
+    ;
+}
+
+/* Main style */
+
+.text-color {
+    color: #E76F51
+    ;
+}
+#Features {
+    filter: grayscale(1); 
+}
