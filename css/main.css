@@ -11,6 +11,9 @@ body {
 /* Header styles */
 
 
+.header-down {
+    padding-top: 70px;
+}
 .header-bg {
     background: #264653
     ;
@@ -20,8 +23,8 @@ body {
     ;
 }
 
-/* Main styles */
 
+/* Main styles */
 
 /* Features styles */
 
@@ -33,6 +36,7 @@ body {
 
 /* Clients styles */
 
+
 .filled {
     color: #E77C40;
 }
@@ -43,7 +47,8 @@ body {
 
 /* Question styles  */
 
-.pragraph-color {
+
+.paragraph-color {
     color: #7E848C
     ;
 }
@@ -51,9 +56,39 @@ body {
 
 /* Carousel styles */
 
+
 .carousel-bg {
     background-image: linear-gradient(#a1235a, #94bbe9);
 }
 #price-color {
     color: #617c90;
 }
+
+
+/* information styles */
+
+
+#info-fill-color {
+    color: #0B0D17;
+}
+.info-bg {
+    background: #617c90;
+}
+.btn-submit {
+    background: #E76F51
+    ;
+}
+
+
+/* Footer styles */
+
+.footer-bg {
+    background: #0B0D17;
+}
+.a-color {
+    color: white;
+}
+
+
+
+/* End styles */
