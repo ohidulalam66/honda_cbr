@@ -42,7 +42,18 @@ body {
 
 
 /* Question styles  */
+
 .pragraph-color {
     color: #7E848C
     ;
+}
+
+
+/* Carousel styles */
+
+.carousel-bg {
+    background-image: linear-gradient(#a1235a, #94bbe9);
+}
+#price-color {
+    color: #617c90;
 }
