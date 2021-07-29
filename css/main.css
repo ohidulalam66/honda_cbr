@@ -1,10 +1,14 @@
-/* Body style */
+/* Body styles */
 body {
     font-family: 'Poppins', sans-serif;
 }
+#text-color {
+    color: #E76F51
+    ;
+}
 
 
-/* Header style */
+/* Header styles */
 
 
 .header-bg {
@@ -16,12 +20,23 @@ body {
     ;
 }
 
-/* Main style */
+/* Main styles */
 
-.text-color {
-    color: #E76F51
-    ;
-}
+
+/* Features styles */
+
+
 #Features {
     filter: grayscale(1); 
 }
+
+
+/* Clients styles */
+
+.filled {
+    color: #E77C40;
+}
+.unfilled {
+    color: #E77C40;
+}
+
